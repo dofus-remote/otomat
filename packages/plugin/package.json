@@ -1,0 +1,19 @@
+{
+  "name": "@dofus-remote/plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dofus-remote/plugins.git"
+  },
+  "author": "Tanuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dofus-remote/plugins/issues"
+  },
+  "homepage": "https://github.com/dofus-remote/plugins#readme"
+}

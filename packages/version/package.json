@@ -1,0 +1,22 @@
+{
+  "name": "@dofus-remote/version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dofus-remote/versions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dofus-remote/versions/issues"
+  },
+  "homepage": "https://github.com/dofus-remote/versions#readme",
+  "dependencies": {
+    "got": "^10.7.0"
+  }
+}

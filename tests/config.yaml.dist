@@ -1,0 +1,13 @@
+kernel:
+    appVersion: 0
+    buildVersion: 0
+    assetsVersion: 0
+    staticDataVersion: 0
+account:
+    login: ~
+    password: ~
+    language: ~
+    isLongLifeToken: false
+game:
+    server: 0
+    character: 0
