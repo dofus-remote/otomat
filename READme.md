@@ -1,4 +1,4 @@
-![DofusRemote Client](https://raw.githubusercontent.com/dofus-remote/otomat/dev/app.png)
+![DofusRemote Client](https://raw.githubusercontent.com/dofus-remote/otomat/master/app.png)
 
 **Otomat** est développé par une seule dans le seul but d'obtenir de nouvelles connaissances dans divers domaines. Les fonctionnalités ne seront pas poussées et toute aide est bienvenue afin de fournir une base de projet stable et propre.
 
