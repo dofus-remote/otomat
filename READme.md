@@ -1,3 +1,5 @@
+# 18/12/20, DofusRemote passe désormait close-source. Les prospositions majeures que j'avais à faire sur l'architecture sont faîtes, j'en continuerais le développement en privé pendant un moment.
+
 ![DofusRemote Client](https://raw.githubusercontent.com/dofus-remote/otomat/master/app.png)
 
 **Otomat** est développé par une seule dans le seul but d'obtenir de nouvelles connaissances dans divers domaines. Les fonctionnalités ne seront pas poussées et toute aide est bienvenue afin de fournir une base de projet stable et propre.
