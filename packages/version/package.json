@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dofus-remote/versions#readme",
   "dependencies": {
-    "got": "^10.7.0"
+    "got": "^11.8.5"
   }
 }
