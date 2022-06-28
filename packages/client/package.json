@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dofus-remote/client#readme",
   "dependencies": {
-    "engine.io": "^3.3.2",
+    "engine.io": "^3.6.0",
     "engine.io-client": "^3.3.2",
     "primus": "^7.3.3",
     "signale": "^1.4.0"
